@@ -1,1 +1,1 @@
-# Face-Verfication-Recognition
+# Face Verfication & Recognition
