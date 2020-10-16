@@ -16,5 +16,9 @@ camera_0.jpg is a picture of Younes.
 ![](/camera_0.jpg)
 ### Face Verification
 ![](/face_ver.jpg)
+
+Gives the output as 'True' or 'False'
 ### Face Recognition
 ![](/face_rec.jpg)
+
+Gives the name of the person.
