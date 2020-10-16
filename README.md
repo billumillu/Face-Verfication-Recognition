@@ -1,4 +1,4 @@
-# Face Verfication & Recognition
+# Face Verification & Recognition
 
 Face recognition problems commonly fall into two categories:
 
