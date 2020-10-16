@@ -12,6 +12,7 @@ Own database consisting of 12 individuals, an image for each.
 
 ## Outputs
 camera_0.jpg is a picture of Younes.
+
 ![](/camera_0.jpg)
 ### Face Verification
 ![](/face_ver.jpg)
