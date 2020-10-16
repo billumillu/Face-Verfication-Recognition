@@ -1,4 +1,4 @@
-# Face Verification & Recognition
+# Face Verification & Recognition | FaceNet
 
 Face recognition problems commonly fall into two categories:
 
